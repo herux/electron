@@ -1,3 +1,6 @@
+PURPOSE OF THIS REPO IS TO BUILD ELECTRON USING VAAPI IN LINUX OS
+
+
 [![Electron Logo](https://electronjs.org/images/electron-logo.svg)](https://electronjs.org)
 
 
